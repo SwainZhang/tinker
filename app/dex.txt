@@ -1,0 +1,2 @@
+com.emery.test.tinker/MainActivity.class
+com.emery.test.tinker/MyApplication.class
